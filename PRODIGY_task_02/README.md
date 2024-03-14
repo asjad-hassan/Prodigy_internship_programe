@@ -1,0 +1,1 @@
+This Python code demonstrates pixel manipulation techniques for image encryption. By applying mathematical operations to individual pixels, the script obscures the original image content, enhancing security. It's a practical implementation for safeguarding sensitive visual data during transmission and storage.
