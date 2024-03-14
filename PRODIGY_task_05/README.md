@@ -1,0 +1,1 @@
+This is a packet sniffer tool developed for educational purposes that captures and analyzes network packets, displaying key information like source and destination IP addresses, protocols, and payload data.
